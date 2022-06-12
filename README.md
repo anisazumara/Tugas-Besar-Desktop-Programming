@@ -1,5 +1,5 @@
 # Tugas-Besar-Desktop-Programming
-Berikut adalah source code dan aplikasi dengan nama aplikasinya adalah "Aplikasi Undian Mahasiswa Informatika"
+Berikut adalah source code dan aplikasi dengan nama aplikasinya adalah "Aplikasi Undian Mahasiswa Informatika". Aplikasi ini memiliki fungsi untuk mengundi secara acak nama mahasiswa yang terpilih sebagai pemenang undian.
 
 ## Menu About
 Sumber yang saya cari dari internet adalah berasal dari video tutorial yang ada di laman youtube dengan saya sertakan link-nya sebagai berikut:
