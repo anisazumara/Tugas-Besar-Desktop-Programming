@@ -2,7 +2,7 @@
 Berikut adalah source code dan aplikasi dengan nama aplikasinya adalah "Aplikasi Undian Mahasiswa Informatika"
 
 ## Menu About
-Sumber yang saya cari dari internet adalah berasal dari video tutorial yang ada di laman youtube dengan saya sertakan link-nya sebagai berikut:
+Sumber yang saya cari dari internet adalah berasal dari video tutorial yang ada di laman youtube dengan saya sertakan link-nya sebagai berikut :  
 https://www.youtube.com/watch?v=MYb2g4H6h8o&list=PLvjM5m50KLJQrKS584r9j3bBoDQdKbuF2&index=32&t=303s , https://www.youtube.com/watch?v=Tg62AxNRir4&list=PLvjM5m50KLJQrKS584r9j3bBoDQdKbuF2&index=38&t=925s , https://www.youtube.com/watch?v=s_ECg11FoEE&t=6s
 
 ## Panduan Menjalankan Aplikasi
