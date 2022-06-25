@@ -1,4 +1,8 @@
 # Tugas-Besar-Desktop-Programming
+NAMA  : ANISATUZZUMARA
+NIM   : 32602000015
+KELAS : TIF A
+
 Berikut adalah source code dan aplikasi dengan nama aplikasinya adalah "Aplikasi Undian Mahasiswa Informatika". Aplikasi ini memiliki fungsi untuk mengundi secara acak nama mahasiswa yang terpilih sebagai pemenang undian.
 
 ## Menu About
